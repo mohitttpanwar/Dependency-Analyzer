@@ -1,4 +1,4 @@
-# Dependency-Analyzer
+ # Dependency-Analyzer
 A comprehensive Node.js tool for analyzing node_modules directories, computing package hashes, building dependency graphs, and detecting missing licenses.
 
 Features
